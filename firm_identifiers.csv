@@ -1,0 +1,374 @@
+RIC,Company Name,Country of Headquarters,ICB Industry
+ERST.VI,Erste Group Bank AG,Austria,Financials
+OMVV.VI,OMV AG,Austria,Energy
+VERB.VI,Verbund AG,Austria,Utilities
+AGES.BR,Ageas SA,Belgium,Financials
+ABI.BR,Anheuser-Busch Inbev SA,Belgium,Consumer Staples
+GBLB.BR,Groep Brussel Lambert NV,Belgium,Financials
+KBC.BR,Kbc Groep NV,Belgium,Financials
+SOLB.BR,Solvay SA,Belgium,Basic Materials
+UCB.BR,Ucb SA,Belgium,Health Care
+UMI.BR,Umicore SA,Belgium,Basic Materials
+MAERSKb.CO,AP Moeller - Maersk A/S,Denmark,Industrials
+MAERSKa.CO,AP Moeller - Maersk A/S,Denmark,Industrials
+CARLb.CO,Carlsberg A/S,Denmark,Consumer Staples
+CHRH.CO,Chr Hansen Holding A/S,Denmark,Health Care
+COLOb.CO,Coloplast A/S,Denmark,Health Care
+DSV.CO,DSV A/S,Denmark,Industrials
+DANSKE.CO,Danske Bank A/S,Denmark,Financials
+GN.CO,GN Store Nord A/S,Denmark,Health Care
+GMAB.CO,Genmab A/S,Denmark,Health Care
+NOVOb.CO,Novo Nordisk A/S,Denmark,Health Care
+NZYMb.CO,Novozymes A/S,Denmark,Health Care
+ORSTED.CO,Orsted A/S,Denmark,Utilities
+PNDORA.CO,Pandora A/S,Denmark,Consumer Discretionary
+TRYG.CO,Tryg A/S,Denmark,Financials
+VWS.CO,Vestas Wind Systems A/S,Denmark,Energy
+ELISA.HE,Elisa Oyj,Finland,Telecommunications
+FORTUM.HE,Fortum Oyj,Finland,Utilities
+KESKOB.HE,Kesko Oyj,Finland,Consumer Staples
+KNEBV.HE,Kone Oyj,Finland,Industrials
+MOCORP.HE,Metso Outotec Corp,Finland,Industrials
+NESTE.HE,Neste Oyj,Finland,Energy
+NOKIA.HE,Nokia Oyj,Finland,Telecommunications
+NDASE.ST,Nordea Bank Abp,Finland,Financials
+SAMPO.HE,Sampo plc,Finland,Financials
+STERV.HE,Stora Enso Oyj,Finland,Basic Materials
+UPM.HE,UPM-Kymmene Oyj,Finland,Basic Materials
+WRT1V.HE,Wartsila Oyj Abp,Finland,Industrials
+AXAF.PA,AXA SA,France,Financials
+ACCP.PA,Accor SA,France,Consumer Discretionary
+ALSO.PA,Alstom SA,France,Industrials
+AKE.PA,Arkema SA,France,Basic Materials
+BNPP.PA,BNP Paribas SA,France,Financials
+BOUY.PA,Bouygues SA,France,Industrials
+BVI.PA,Bureau Veritas SA,France,Industrials
+CAPP.PA,Capgemini SE,France,Technology
+CARR.PA,Carrefour SA,France,Consumer Staples
+MICP.PA,Compagnie Generale des Etablissements Michelin SCA,France,Consumer Discretionary
+SGOB.PA,Compagnie de Saint Gobain SA,France,Industrials
+CAGR.PA,Credit Agricole SA,France,Financials
+DANO.PA,Danone SA,France,Consumer Staples
+DAST.PA,Dassault Systemes SE,France,Technology
+EDEN.PA,Edenred SE,France,Industrials
+FOUG.PA,Eiffage SA,France,Industrials
+ENGIE.PA,Engie SA,France,Utilities
+ESLX.PA,EssilorLuxottica SA,France,Health Care
+GETP.PA,Getlink SE,France,Industrials
+HRMS.PA,Hermes International SCA,France,Consumer Discretionary
+PRTP.PA,Kering SA,France,Consumer Discretionary
+AIRP.PA,L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA,France,Basic Materials
+OREP.PA,L'Oreal SA,France,Consumer Discretionary
+LVMH.PA,LVMH Moet Hennessy Louis Vuitton SE,France,Consumer Discretionary
+LEGD.PA,Legrand SA,France,Industrials
+ORAN.PA,Orange SA,France,Telecommunications
+PERP.PA,Pernod Ricard SA,France,Consumer Staples
+PUBP.PA,Publicis Groupe SA,France,Consumer Discretionary
+RENA.PA,Renault SA,France,Consumer Discretionary
+SAF.PA,Safran SA,France,Industrials
+SASY.PA,Sanofi SA,France,Health Care
+STDM.PA,Sartorius Stedim Biotech SA,France,Health Care
+SCHN.PA,Schneider Electric SE,France,Industrials
+SOGN.PA,Societe Generale SA,France,Financials
+EXHO.PA,Sodexo SA,France,Consumer Discretionary
+TEPRF.PA,Teleperformance SE,France,Industrials
+TCFP.PA,Thales SA,France,Industrials
+TTEF.PA,TotalEnergies SE,France,Energy
+VLOF.PA,Valeo SE,France,Consumer Discretionary
+VIE.PA,Veolia Environnement SA,France,Utilities
+SGEF.PA,Vinci SA,France,Industrials
+VIV.PA,Vivendi SE,France,Consumer Discretionary
+WLN.PA,Worldline SA,France,Industrials
+ADSGn.DE,Adidas AG,Germany,Consumer Discretionary
+ALVG.DE,Allianz SE,Germany,Financials
+BASFn.DE,BASF SE,Germany,Basic Materials
+BAYGn.DE,Bayer AG,Germany,Health Care
+BMWG.DE,Bayerische Motoren Werke AG,Germany,Consumer Discretionary
+BMWG_p.DE,Bayerische Motoren Werke AG,Germany,Consumer Discretionary
+BEIG.DE,Beiersdorf AG,Germany,Consumer Staples
+BNRGn.DE,Brenntag SE,Germany,Basic Materials
+CBKG.DE,Commerzbank AG,Germany,Financials
+CONG.DE,Continental AG,Germany,Consumer Discretionary
+1COV.DE,Covestro AG,Germany,Basic Materials
+DTGGe.DE,Daimler Truck Holding AG,Germany,Industrials
+DHER.DE,Delivery Hero SE,Germany,Consumer Discretionary
+DBKGn.DE,Deutsche Bank AG,Germany,Financials
+DB1Gn.DE,Deutsche Boerse AG,Germany,Financials
+DPWGn.DE,Deutsche Post AG,Germany,Industrials
+DTEGn.DE,Deutsche Telekom AG,Germany,Telecommunications
+EONGn.DE,E ON SE,Germany,Utilities
+FMEG.DE,Fresenius Medical Care AG & Co KGaA,Germany,Health Care
+FREG.DE,Fresenius SE & Co KGaA,Germany,Health Care
+G1AG.DE,GEA Group AG,Germany,Industrials
+HNRGn.DE,Hannover Rueck SE,Germany,Financials
+HEIG.DE,HeidelbergCement AG,Germany,Industrials
+HFGG.DE,Hellofresh SE,Germany,Consumer Staples
+HNKG.DE,Henkel AG & Co KGaA,Germany,Consumer Discretionary
+HNKG_p.DE,Henkel AG & Co KGaA,Germany,Consumer Discretionary
+IFXGn.DE,Infineon Technologies AG,Germany,Technology
+MTXGn.DE,MTU Aero Engines AG,Germany,Industrials
+MBGn.DE,Mercedes Benz Group AG,Germany,Consumer Discretionary
+MRCG.DE,Merck KGaA,Germany,Health Care
+MUVGn.DE,Muenchener Rueckversicherungs Gesellschaft in Muenchen AG,Germany,Financials
+PSHG_p.DE,Porsche Automobil Holding SE,Germany,Consumer Discretionary
+PUMG.DE,Puma SE,Germany,Consumer Discretionary
+RWEG.DE,RWE AG,Germany,Utilities
+RHMG.DE,Rheinmetall AG,Germany,Industrials
+SAPG.DE,SAP SE,Germany,Technology
+SATG_p.DE,Sartorius AG,Germany,Health Care
+SIEGn.DE,Siemens AG,Germany,Industrials
+ENR1n.DE,Siemens Energy AG,Germany,Energy
+SHLG.DE,Siemens Healthineers AG,Germany,Health Care
+SY1G.DE,Symrise AG,Germany,Basic Materials
+VOWG.DE,Volkswagen AG,Germany,Consumer Discretionary
+VOWG_p.DE,Volkswagen AG,Germany,Consumer Discretionary
+ZALG.DE,Zalando SE,Germany,Consumer Discretionary
+ACN.N,Accenture PLC,Ireland; Republic of,Industrials
+ALLE.N,Allegion PLC,Ireland; Republic of,Industrials
+AON.N,Aon PLC,Ireland; Republic of,Financials
+APTV.N,Aptiv PLC,Ireland; Republic of,Consumer Discretionary
+BIRG.I,Bank of Ireland Group PLC,Ireland; Republic of,Financials
+CRH.I,CRH PLC,Ireland; Republic of,Industrials
+DCC.L,DCC PLC,Ireland; Republic of,Industrials
+ETN.N,Eaton Corporation PLC,Ireland; Republic of,Industrials
+EXPN.L,Experian PLC,Ireland; Republic of,Industrials
+FLTRF.I,Flutter Entertainment PLC,Ireland; Republic of,Consumer Discretionary
+JHX.AX,James Hardie Industries PLC,Ireland; Republic of,Industrials
+JCI.N,Johnson Controls International PLC,Ireland; Republic of,Industrials
+KYGa.I,Kerry Group PLC,Ireland; Republic of,Consumer Staples
+KSP.I,Kingspan Group PLC,Ireland; Republic of,Industrials
+MDT.N,Medtronic PLC,Ireland; Republic of,Health Care
+RYA.I,Ryanair Holdings PLC,Ireland; Republic of,Consumer Discretionary
+STE.N,STERIS plc,Ireland; Republic of,Health Care
+STX.OQ,Seagate Technology Holdings PLC,Ireland; Republic of,Technology
+SKG.I,Smurfit Kappa Group PLC,Ireland; Republic of,Industrials
+TT.N,Trane Technologies PLC,Ireland; Republic of,Industrials
+GASI.MI,Assicurazioni Generali SpA,Italy,Financials
+ENEI.MI,Enel SpA,Italy,Utilities
+ENI.MI,Eni SpA,Italy,Energy
+RACE.MI,Ferrari NV,Italy,Consumer Discretionary
+FBK.MI,FinecoBank Banca Fineco SpA,Italy,Financials
+ISP.MI,Intesa Sanpaolo SpA,Italy,Financials
+MDBI.MI,Mediobanca Banca di Credito Finanziario SpA,Italy,Financials
+MONC.MI,Moncler SpA,Italy,Consumer Discretionary
+NEXII.MI,Nexi SpA,Italy,Industrials
+PRY.MI,Prysmian SpA,Italy,Industrials
+SRG.MI,Snam SpA,Italy,Energy
+TLIT.MI,Telecom Italia SpA,Italy,Telecommunications
+TLITn.MI,Telecom Italia SpA,Italy,Telecommunications
+TRN.MI,Terna Rete Elettrica Nazionale SpA,Italy,Utilities
+CRDI.MI,UniCredit SpA,Italy,Financials
+MT.AS,ArcelorMittal SA,Luxembourg,Basic Materials
+EUFI.PA,Eurofins Scientific SE,Luxembourg,Health Care
+TENR.MI,Tenaris SA,Luxembourg,Energy
+ABNd.AS,ABN Amro Bank NV,Netherlands,Financials
+ASMI.AS,ASM International NV,Netherlands,Technology
+ASML.AS,ASML Holding NV,Netherlands,Technology
+ADYEN.AS,Adyen NV,Netherlands,Industrials
+AEGN.AS,Aegon NV,Netherlands,Financials
+AIR.PA,Airbus SE,Netherlands,Industrials
+AKZO.AS,Akzo Nobel NV,Netherlands,Basic Materials
+ENX.PA,Euronext NV,Netherlands,Financials
+EXOR.AS,Exor NV,Netherlands,Financials
+HEIO.AS,Heineken Holding NV,Netherlands,Consumer Staples
+HEIN.AS,Heineken NV,Netherlands,Consumer Staples
+IMCD.AS,IMCD NV,Netherlands,Basic Materials
+INGA.AS,ING Groep NV,Netherlands,Financials
+AD.AS,Koninklijke Ahold Delhaize NV,Netherlands,Consumer Staples
+DSMN.AS,Koninklijke DSM NV,Netherlands,Consumer Staples
+KPN.AS,Koninklijke KPN NV,Netherlands,Telecommunications
+PHG.AS,Koninklijke Philips NV,Netherlands,Health Care
+NN.AS,NN Group NV,Netherlands,Financials
+NXPI.OQ,NXP Semiconductors NV,Netherlands,Technology
+PRX.AS,Prosus NV,Netherlands,Technology
+QIA.DE,Qiagen NV,Netherlands,Health Care
+RAND.AS,Randstad NV,Netherlands,Industrials
+STMMI.MI,STMicroelectronics NV,Netherlands,Technology
+STLAM.MI,Stellantis NV,Netherlands,Consumer Discretionary
+UMG.AS,Universal Music Group NV,Netherlands,Consumer Discretionary
+WLSNc.AS,Wolters Kluwer NV,Netherlands,Consumer Discretionary
+ARGX.BR,argenx SE,Netherlands,Health Care
+AKRBP.OL,Aker BP ASA,Norway,Energy
+DNB.OL,DNB Bank ASA,Norway,Financials
+EQNR.OL,Equinor ASA,Norway,Energy
+MOWI.OL,Mowi ASA,Norway,Consumer Staples
+NHY.OL,Norsk Hydro ASA,Norway,Basic Materials
+ORK.OL,Orkla ASA,Norway,Consumer Staples
+TEL.OL,Telenor ASA,Norway,Telecommunications
+YAR.OL,Yara International ASA,Norway,Basic Materials
+EDP.LS,EDP Energias de Portugal SA,Portugal,Utilities
+GALP.LS,Galp Energia SGPS SA,Portugal,Energy
+ACS.MC,ACS Actividades de Construccion y Servicios SA,Spain,Industrials
+AENA.MC,Aena SME SA,Spain,Industrials
+AMA.MC,Amadeus IT Group SA,Spain,Technology
+BBVA.MC,Banco Bilbao Vizcaya Argentaria SA,Spain,Financials
+SAN.MC,Banco Santander SA,Spain,Financials
+CABK.MC,Caixabank SA,Spain,Financials
+CLNX.MC,Cellnex Telecom SA,Spain,Telecommunications
+ENAG.MC,Enagas SA,Spain,Energy
+ELE.MC,Endesa SA,Spain,Utilities
+FER.MC,Ferrovial SA,Spain,Industrials
+GRLS.MC,Grifols SA,Spain,Health Care
+IBE.MC,Iberdrola SA,Spain,Utilities
+ITX.MC,Industria de Diseno Textil SA,Spain,Consumer Discretionary
+NTGY.MC,Naturgy Energy Group SA,Spain,Utilities
+REDE.MC,Red Electrica Corporacion SA,Spain,Utilities
+REP.MC,Repsol SA,Spain,Energy
+TEF.MC,Telefonica SA,Spain,Telecommunications
+ALFA.ST,Alfa Laval AB,Sweden,Industrials
+ASSAb.ST,Assa Abloy AB,Sweden,Industrials
+ATCOa.ST,Atlas Copco AB,Sweden,Industrials
+ATCOb.ST,Atlas Copco AB,Sweden,Industrials
+BOL.ST,Boliden AB,Sweden,Basic Materials
+EQTAB.ST,EQT AB,Sweden,Financials
+ELUXb.ST,Electrolux AB,Sweden,Consumer Discretionary
+EMBRACb.ST,Embracer Group AB,Sweden,Consumer Discretionary
+EPIRa.ST,Epiroc AB,Sweden,Industrials
+EPIRb.ST,Epiroc AB,Sweden,Industrials
+ESSITYb.ST,Essity AB (publ),Sweden,Consumer Staples
+EVOG.ST,Evolution AB (publ),Sweden,Consumer Discretionary
+GETIb.ST,Getinge AB,Sweden,Health Care
+HMb.ST,H & M Hennes & Mauritz AB,Sweden,Consumer Discretionary
+HEXAb.ST,Hexagon AB,Sweden,Technology
+INDUa.ST,Industrivarden AB,Sweden,Financials
+INDUc.ST,Industrivarden AB,Sweden,Financials
+INVEb.ST,Investor AB,Sweden,Financials
+KINVb.ST,Kinnevik AB,Sweden,Financials
+NIBEb.ST,Nibe Industrier AB,Sweden,Industrials
+SKFb.ST,SKF AB,Sweden,Basic Materials
+SAND.ST,Sandvik AB,Sweden,Industrials
+SEBa.ST,Skandinaviska Enskilda Banken AB,Sweden,Financials
+SKAb.ST,Skanska AB,Sweden,Industrials
+SCAb.ST,Svenska Cellulosa SCA AB,Sweden,Basic Materials
+SHBa.ST,Svenska Handelsbanken AB,Sweden,Financials
+SWEDa.ST,Swedbank AB,Sweden,Financials
+TEL2b.ST,Tele2 AB,Sweden,Telecommunications
+ERICb.ST,Telefonaktiebolaget LM Ericsson,Sweden,Telecommunications
+TELIA.ST,Telia Company AB,Sweden,Telecommunications
+VOLVb.ST,Volvo AB,Sweden,Industrials
+ABBN.S,Abb Ltd,Switzerland,Industrials
+ADEN.S,Adecco Group AG,Switzerland,Industrials
+ALCC.S,Alcon AG,Switzerland,Health Care
+BALN.S,Baloise Holding AG,Switzerland,Financials
+BARN.S,Barry Callebaut AG,Switzerland,Consumer Staples
+LISP.S,Chocoladefabriken Lindt & Spruengli AG,Switzerland,Consumer Staples
+LISN.S,Chocoladefabriken Lindt & Spruengli AG,Switzerland,Consumer Staples
+CB.N,Chubb Ltd,Switzerland,Financials
+CFR.S,Compagnie Financiere Richemont SA,Switzerland,Consumer Discretionary
+CSGN.S,Credit Suisse Group AG,Switzerland,Financials
+GRMN.N,Garmin Ltd,Switzerland,Consumer Discretionary
+GEBN.S,Geberit AG,Switzerland,Industrials
+GIVN.S,Givaudan SA,Switzerland,Basic Materials
+GLEN.L,Glencore PLC,Switzerland,Basic Materials
+HOLN.S,Holcim AG,Switzerland,Industrials
+BAER.S,Julius Baer Gruppe AG,Switzerland,Financials
+KNIN.S,Kuehne und Nagel International AG,Switzerland,Industrials
+LOGN.S,Logitech International SA,Switzerland,Technology
+LONN.S,Lonza Group AG,Switzerland,Health Care
+NESN.S,Nestle SA,Switzerland,Consumer Staples
+NOVN.S,Novartis AG,Switzerland,Health Care
+PGHN.S,Partners Group Holding AG,Switzerland,Financials
+RO.S,Roche Holding AG,Switzerland,Health Care
+ROG.S,Roche Holding AG,Switzerland,Health Care
+SGSN.S,SGS SA,Switzerland,Industrials
+SIGNC.S,SIG Group AG,Switzerland,Industrials
+SCHN.S,Schindler Holding AG,Switzerland,Industrials
+SCHP.S,Schindler Holding AG,Switzerland,Industrials
+SIKA.S,Sika AG,Switzerland,Industrials
+SOON.S,Sonova Holding AG,Switzerland,Health Care
+STMN.S,Straumann Holding AG,Switzerland,Health Care
+UHRN.S,Swatch Group AG,Switzerland,Consumer Discretionary
+UHR.S,Swatch Group AG,Switzerland,Consumer Discretionary
+SLHN.S,Swiss Life Holding AG,Switzerland,Financials
+SRENH.S,Swiss Re AG,Switzerland,Financials
+SCMN.S,Swisscom AG,Switzerland,Telecommunications
+TEL.N,TE Connectivity Ltd,Switzerland,Technology
+TEMN.S,Temenos AG,Switzerland,Technology
+UBSG.S,UBS Group AG,Switzerland,Financials
+VACN.S,VAT Group AG,Switzerland,Industrials
+ZURN.S,Zurich Insurance Group AG,Switzerland,Financials
+III.L,3i Group PLC,United Kingdom,Financials
+ABDN.L,Abrdn PLC,United Kingdom,Financials
+ADML.L,Admiral Group PLC,United Kingdom,Financials
+AMCR.N,Amcor PLC,United Kingdom,Industrials
+AAL.L,Anglo American PLC,United Kingdom,Basic Materials
+ANTO.L,Antofagasta PLC,United Kingdom,Basic Materials
+AHT.L,Ashtead Group PLC,United Kingdom,Industrials
+ABF.L,Associated British Foods PLC,United Kingdom,Consumer Staples
+AZN.L,AstraZeneca PLC,United Kingdom,Health Care
+AUTOA.L,Auto Trader Group PLC,United Kingdom,Technology
+AV.L,Aviva PLC,United Kingdom,Financials
+BAES.L,BAE Systems PLC,United Kingdom,Industrials
+BP.L,BP PLC,United Kingdom,Energy
+BT.L,BT Group PLC,United Kingdom,Telecommunications
+BARC.L,Barclays PLC,United Kingdom,Financials
+BDEV.L,Barratt Developments P L C,United Kingdom,Consumer Discretionary
+BKGH.L,Berkeley Group Holdings PLC,United Kingdom,Consumer Discretionary
+BATS.L,British American Tobacco PLC,United Kingdom,Consumer Staples
+BLND.L,British Land Company PLC,United Kingdom,Real Estate
+BNZL.L,Bunzl plc,United Kingdom,Industrials
+BRBY.L,Burberry Group PLC,United Kingdom,Consumer Discretionary
+CNHI.MI,CNH Industrial NV,United Kingdom,Industrials
+CNA.L,Centrica PLC,United Kingdom,Utilities
+CPG.L,Compass Group PLC,United Kingdom,Consumer Discretionary
+CRDA.L,Croda International PLC,United Kingdom,Basic Materials
+SMDS.L,DS Smith PLC,United Kingdom,Industrials
+DGE.L,Diageo PLC,United Kingdom,Consumer Staples
+DLGD.L,Direct Line Insurance Group PLC,United Kingdom,Financials
+GSK.L,GSK plc,United Kingdom,Health Care
+HLN.L,HALEON PLC,United Kingdom,Health Care
+HSBA.L,HSBC Holdings PLC,United Kingdom,Financials
+HLMA.L,Halma PLC,United Kingdom,Industrials
+HRGV.L,Hargreaves Lansdown PLC,United Kingdom,Financials
+IMI.L,IMI PLC,United Kingdom,Industrials
+IMB.L,Imperial Brands PLC,United Kingdom,Consumer Staples
+INF.L,Informa PLC,United Kingdom,Consumer Discretionary
+IHG.L,InterContinental Hotels Group PLC,United Kingdom,Consumer Discretionary
+ICP.L,Intermediate Capital Group PLC,United Kingdom,Financials
+ITRK.L,Intertek Group PLC,United Kingdom,Industrials
+SBRY.L,J Sainsbury PLC,United Kingdom,Consumer Staples
+JMAT.L,Johnson Matthey PLC,United Kingdom,Basic Materials
+KGF.L,Kingfisher PLC,United Kingdom,Consumer Discretionary
+LAND.L,Land Securities Group PLC,United Kingdom,Real Estate
+LGEN.L,Legal & General Group PLC,United Kingdom,Financials
+LLOY.L,Lloyds Banking Group PLC,United Kingdom,Financials
+LSEG.L,London Stock Exchange Group PLC,United Kingdom,Financials
+LYB.N,LyondellBasell Industries NV,United Kingdom,Basic Materials
+MNG.L,M&G PLC,United Kingdom,Financials
+MKS.L,Marks and Spencer Group PLC,United Kingdom,Consumer Discretionary
+MRON.L,Melrose Industries PLC,United Kingdom,Industrials
+MNDI.L,Mondi PLC,United Kingdom,Industrials
+NG.L,National Grid PLC,United Kingdom,Utilities
+NWG.L,Natwest Group PLC,United Kingdom,Financials
+NXT.L,Next PLC,United Kingdom,Consumer Discretionary
+OCDO.L,Ocado Group PLC,United Kingdom,Consumer Staples
+PSON.L,Pearson PLC,United Kingdom,Consumer Discretionary
+PNR.N,Pentair PLC,United Kingdom,Industrials
+PSN.L,Persimmon PLC,United Kingdom,Consumer Discretionary
+PHNX.L,Phoenix Group Holdings PLC,United Kingdom,Financials
+PRU.L,Prudential PLC,United Kingdom,Financials
+RKT.L,Reckitt Benckiser Group PLC,United Kingdom,Consumer Staples
+REL.L,Relx PLC,United Kingdom,Consumer Discretionary
+RTO.L,Rentokil Initial PLC,United Kingdom,Industrials
+RMV.L,Rightmove PLC,United Kingdom,Real Estate
+RIO.L,Rio Tinto PLC,United Kingdom,Basic Materials
+RR.L,Rolls-Royce Holdings PLC,United Kingdom,Industrials
+SSE.L,SSE PLC,United Kingdom,Utilities
+SGE.L,Sage Group PLC,United Kingdom,Technology
+SDR.L,Schroders PLC,United Kingdom,Financials
+SVT.L,Severn Trent PLC,United Kingdom,Utilities
+SHEL.L,Shell PLC,United Kingdom,Energy
+SN.L,Smith & Nephew PLC,United Kingdom,Health Care
+SMIN.L,Smiths Group PLC,United Kingdom,Industrials
+SPX.L,Spirax-Sarco Engineering PLC,United Kingdom,Industrials
+SJP.L,St James's Place PLC,United Kingdom,Financials
+STAN.L,Standard Chartered PLC,United Kingdom,Financials
+TW.L,Taylor Wimpey PLC,United Kingdom,Consumer Discretionary
+TSCO.L,Tesco PLC,United Kingdom,Consumer Staples
+ULVR.L,Unilever PLC,United Kingdom,Consumer Staples
+UU.L,United Utilities Group PLC,United Kingdom,Utilities
+VOD.L,Vodafone Group PLC,United Kingdom,Telecommunications
+WPP.L,WPP PLC,United Kingdom,Consumer Discretionary
+WEIR.L,Weir Group PLC,United Kingdom,Industrials
+WTB.L,Whitbread PLC,United Kingdom,Consumer Discretionary
+WTW.OQ,Willis Towers Watson PLC,United Kingdom,Financials
